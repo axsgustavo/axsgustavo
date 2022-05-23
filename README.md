@@ -18,7 +18,7 @@
    <img height="30px" src="https://github.com/axsgustavo/axsgustavo/blob/main/_assets/figma.png">
   </span>
   <span>
-   <img height="30px" src="https://github.com/axsgustavo/axsgustavo/blob/main/_assets/js.png">
+   <img height="35px" src="https://github.com/axsgustavo/axsgustavo/blob/main/_assets/js.png">
   </span>
   <span>
    <img height="30px" src="https://github.com/axsgustavo/axsgustavo/blob/main/_assets/reactjs.png">
@@ -30,7 +30,7 @@
    <img height="30px" src="https://github.com/axsgustavo/axsgustavo/blob/main/_assets/html.png">
   </span>
   <span>
-   <img height="30px" src="https://github.com/axsgustavo/axsgustavo/blob/main/_assets/css.png">
+   <img height="35px" src="https://github.com/axsgustavo/axsgustavo/blob/main/_assets/css.png">
   </span>
   <span>
    <img height="30px" src="https://github.com/axsgustavo/axsgustavo/blob/main/_assets/sass.png">
