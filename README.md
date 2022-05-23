@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com&size=24&duration=2800&color=56E1E6&center=true&vCenter=true&width=600&height=100&lines=Seja+bem+vindo!;Ol%C3%A1+esse+%C3%A9+meu+perfil%2C+me+chamo+Gustavo)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=24&duration=2800&color=56E1E6&center=true&vCenter=true&width=600&height=100&lines=Seja+bem+vindo!;Ol%C3%A1+esse+%C3%A9+meu+perfil%2C+me+chamo+Gustavo)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/axsgustavo">
