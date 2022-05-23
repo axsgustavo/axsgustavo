@@ -39,10 +39,10 @@
   
 <div align="center">
   <h2>🇷 🇪 🇩 🇪 🇸</h2>
-  <a href="https://www.linkedin.com/in/axsgustavo/" target="_blank">
+  <a href="https://instagram.com/guslves" target="_blank">
    <img height="30px" src="https://img.shields.io/badge/Instagram-060e10?style=for-the-badge&logo=instagram&logoColor=5ce1e6">
   </a>
-  <a href="https://instagram.com/guslves/" target="_blank">
+  <a href="https://www.linkedin.com/in/axsgustavo/" target="_blank">
    <img height="30px" src="https://img.shields.io/badge/LinkedIn-060e10?style=for-the-badge&logo=linkedin&logoColor=5ce1e6">
   </a>
 </div>
