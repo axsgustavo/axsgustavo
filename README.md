@@ -32,3 +32,7 @@
    <img height="30px" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   </span>
 </div>
+  
+<div>
+  ![Snake animation](https://github.com/axsgustavo/axsgustavo/blob/output/github-contribution-grid-snake.svg)
+</div>
