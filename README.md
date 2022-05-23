@@ -15,22 +15,25 @@
 <div align="center">
   <br />
   <span>
+   <img height="30px" src="https://github.com/axsgustavo/axsgustavo/blob/main/_assets/figma.png">
+  </span>
+  <span>
    <img height="30px" src="https://github.com/axsgustavo/axsgustavo/blob/main/_assets/js.png">
   </span>
   <span>
-   <img height="30px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+   <img height="30px" src="https://github.com/axsgustavo/axsgustavo/blob/main/_assets/reactjs.png">
   </span>
   <span>
-   <img height="30px" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+   <img height="30px" src="https://github.com/axsgustavo/axsgustavo/blob/main/_assets/styled-components.png">
   </span>
   <span>
-   <img height="30px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+   <img height="30px" src="https://github.com/axsgustavo/axsgustavo/blob/main/_assets/html.png">
   </span>
   <span>
-   <img height="30px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+   <img height="30px" src="https://github.com/axsgustavo/axsgustavo/blob/main/_assets/css.png">
   </span>
   <span>
-   <img height="30px" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+   <img height="30px" src="https://github.com/axsgustavo/axsgustavo/blob/main/_assets/sass.png">
   </span>
 </div>
   
