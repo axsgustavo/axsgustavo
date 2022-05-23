@@ -33,6 +33,6 @@
   </span>
 </div>
   
-<div>
-  ![Snake animation](https://github.com/axsgustavo/axsgustavo/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+   <!--[Snake animation]--><img src="https://github.com/axsgustavo/axsgustavo/blob/output/github-contribution-grid-snake.svg"/>
 </div>
