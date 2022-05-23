@@ -20,9 +20,9 @@ Here are some ideas to get you started:
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=axsgustavo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/> 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axsgustavo&layout=compact&langs_count=7&theme=merko"/>
 </div>
-  
+ 
 <p align="center">
-   <a href="https://code.visualstudio.com/">
+   <a margin="30" href="https://code.visualstudio.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
    </a>
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
