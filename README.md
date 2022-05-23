@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![banner](./banner.png)](https://github.com/axsgustavo)
 <div align="center">
   <a href="https://github.com/axsgustavo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=axsgustavo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/> 
