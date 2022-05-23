@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=24&duration=2800&color=56E1E6&center=true&vCenter=true&width=1080&height=100&lines=Seja+bem+vindo!;Ol%C3%A1+esse+%C3%A9+meu+perfil%2C+me+chamo+Gustavo)](https://git.io/typing-svg)
 
 <div align="center">
-  <h2>Hello World! <img src="https://media1.giphy.com/media/l1J9MT9T0ZG2xvWCc/giphy.gif" /></h2>
+  <h2><img src="https://media1.giphy.com/media/l1J9MT9T0ZG2xvWCc/giphy.gif" height="30" /> Hello World!</h2>
   <h3>Meu nome é <a href="https://www.linkedin.com/in/axsgustavo/" target="_blank">Gustavo</a>, estudo Análise e Densenvovimento de Sistema, sou fascinado por novas tecnologias<h3>
 </div>
 
@@ -12,7 +12,7 @@
 </div>
  
 <div align="center">
-  <h2>🇱 🇮 🇳 🇬 🇺 🇦 🇬 🇪 🇳 🇸  | 🇫 🇷 🇦 🇲 🇪 🇼 🇴 🇷 🇰 🇸  | 🇧 🇮 🇧 🇱 🇮 🇴 🇹 🇪 🇨 🇦 🇸 </h2>
+  <br />
   <span>
    <img height="30px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   </span>
