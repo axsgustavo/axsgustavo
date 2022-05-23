@@ -34,8 +34,11 @@
 </div>
   
 <div align="center">
-  <h2>🇨 🇴 🇳 🇹 🇦 🇹 🇴</h2>
-  <span>
-   <img height="30px" src="https://img.shields.io/badge/Discord-DB7093?style=for-the-badge&logo=discord&logoColor=00FFFF">
-  </span>
+  <h2>🇷 🇪 🇩 🇪 🇸</h2>
+  <a href="https://www.linkedin.com/in/axsgustavo/" target="_blank">
+   <img height="30px" src="https://img.shields.io/badge/Instagram-060e10?style=for-the-badge&logo=instagram&logoColor=5ce1e6">
+  </a>
+  <a href="https://instagram.com/guslves/" target="_blank">
+   <img height="30px" src="https://img.shields.io/badge/LinkedIn-060e10?style=for-the-badge&logo=linkedin&logoColor=5ce1e6">
+  </a>
 </div>
