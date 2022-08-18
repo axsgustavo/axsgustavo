@@ -20,6 +20,9 @@
   <span>
    <img height="31px" src="https://github.com/axsgustavo/axsgustavo/blob/main/_assets/js.png">
   </span>
+   <span>
+   <img height="31px" src="https://github.com/axsgustavo/axsgustavo/blob/main/_assets/ts.png">
+  </span>
   <span>
    <img height="30px" src="https://github.com/axsgustavo/axsgustavo/blob/main/_assets/reactjs.png">
   </span>
