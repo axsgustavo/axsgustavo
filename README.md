@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://media1.giphy.com/media/l1J9MT9T0ZG2xvWCc/giphy.gif" height="30" />
   <h2>🇭 🇪 🇱 🇱 🇴  🇼 🇴 🇷 🇱 🇩 !</h2>
-  <h3>Meu nome é <a href="https://www.linkedin.com/in/axsgustavo/" target="_blank">Gustavo</a>, estudo Análise e Densenvovimento de Sistemas, sou fascinado por novas tecnologias.<h3>
+  <h3>Meu nome é <a href="https://www.linkedin.com/in/axsgustavo/" target="_blank">Gustavo</a>, estudo Análise e Densenvovimento de Sistemas 🐱‍💻<h3>
 </div>
 
 <div align="center">
