@@ -27,6 +27,9 @@
    <img height="30px" src="https://github.com/axsgustavo/axsgustavo/blob/main/_assets/reactjs.png">
   </span>
   <span>
+    <img height="31px" src="https://github.com/axsgustavo/axsgustavo/blob/main/_assets/nextjs.png">
+  </span>
+  <span>
    <img height="30px" src="https://github.com/axsgustavo/axsgustavo/blob/main/_assets/styled-components.png">
   </span>
   <span>
@@ -37,9 +40,6 @@
   </span>
   <span>
    <img height="30px" src="https://github.com/axsgustavo/axsgustavo/blob/main/_assets/sass.png">
-  </span>
-  <span>
-    <img height="30px" src="https://github.com/axsgustavo/axsgustavo/blob/main/_assets/nextjs.png">
   </span>
 </div>
   
