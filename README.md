@@ -38,6 +38,9 @@
   <span>
    <img height="30px" src="https://github.com/axsgustavo/axsgustavo/blob/main/_assets/sass.png">
   </span>
+  <span>
+    <img height="30px" src="https://github.com/axsgustavo/axsgustavo/blob/main/_assets/nextjs.png">
+  </span>
 </div>
   
 <div align="center">
