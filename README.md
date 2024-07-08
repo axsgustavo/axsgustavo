@@ -12,6 +12,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axsgustavo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
+<!--
 <div align="center">
   <br />
   <span>
@@ -42,6 +43,7 @@
    <img height="30px" src="https://github.com/axsgustavo/axsgustavo/blob/main/_assets/sass.png">
   </span>
 </div>
+-->
   
 <div align="center">
   <h2>🇷 🇪 🇩 🇪 🇸</h2>
